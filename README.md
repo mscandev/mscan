@@ -24,7 +24,7 @@ python3 mscan.py  (默认使用全部模块)
 
 # 架构图
 
-![image-20220811223546040](https://raw.githubusercontent.com/mscandev/mscan/master/images/mscan.png)
+![image-20220811223546040](https://raw.githubusercontent.com/mscandev/mscan/master/image/mscan.png)
 
 ## Licenses
 
