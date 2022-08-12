@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+output/
+test.txt
+*.conf
+test.conf
+.idea/
